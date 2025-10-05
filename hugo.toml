@@ -1,0 +1,4 @@
+baseURL = 'https://radardetektif.github.io/azzr/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'PaperMod'
